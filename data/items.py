@@ -1,2 +1,13 @@
-# object Ids = items and properties
+# Object Ids = Items
+
+# Farmable items
+
+
+# Crafted items
+
+
+# Mined items
+
+
+
 
