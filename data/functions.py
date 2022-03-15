@@ -8,6 +8,7 @@ import math
 
 # Invalid User Input Function
 
+#add color coded fun letters
 print("Here is a list of available input options:")
 print("farm - Used to collect farmable ingredients")
 print("mine - Used to collect mineable ingredients")
@@ -25,6 +26,7 @@ print("quit - exits the program")
 
 
 # Craft Function: craft - Used to combine items to create other items
+# when typing in options of what ingredients to use - it will let you keep typing in lines until you type "done" to complete the input list
 
 
 
